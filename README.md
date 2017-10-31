@@ -1,1 +1,1 @@
-# git-glow-test
+# git-flow-test
