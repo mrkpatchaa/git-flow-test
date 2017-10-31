@@ -1,0 +1,27 @@
+{
+  "name": "git-flow",
+  "version": "1.0.0",
+  "description": "Test git flow with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "generate-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmkpatchaa/git-glow-test.git"
+  },
+  "keywords": [
+    "git",
+    "flow"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmkpatchaa/git-glow-test/issues"
+  },
+  "homepage": "https://github.com/rmkpatchaa/git-glow-test#readme",
+  "devDependencies": {
+    "generate-release": "^0.14.0"
+  }
+}
